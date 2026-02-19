@@ -1,4 +1,5 @@
-💫 About Me:
+[ReadMe (1).md](https://github.com/user-attachments/files/25415919/ReadMe.1.md)
+# 💫 About Me:
 Computer Science undergraduate with hands-on experience in software development, data analysis, and AI-driven systems. Comfortable working with Python, JavaScript, SQL, APIs, and real-world datasets. Interested in debugging, building reliable systems, and using AI tools to solve practical engineering problems.
 
 
