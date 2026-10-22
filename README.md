@@ -8,7 +8,6 @@ I build Python and SQL-based systems: REST APIs, data pipelines and LLM/RAG appl
 - 🛠️ Previously Full Stack Developer at **New Auto Backs** and Software Engineer Intern at **Ascent Business Solutions (Brandix)**
 - 🎓 BSc (Hons) Computer Science, **First Class Honours**, University of Bedfordshire (SLIIT City), 2026
 - 🤖 Automation Anywhere Certified Advanced RPA Professional (A360), 2026
-- 📍 Based in Sri Lanka · open to remote roles and roles in the UAE
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-seif--ferooz--0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seif-ferooz-/)
 [![Email](https://img.shields.io/badge/Email-seifferoz15%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seifferoz15@gmail.com)
