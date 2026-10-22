@@ -1,19 +1,39 @@
-[ReadMe (1).md](https://github.com/user-attachments/files/25415919/ReadMe.1.md)
-# 💫 About Me:
-Computer Science undergraduate with hands-on experience in software development, data analysis, and AI-driven systems. Comfortable working with Python, JavaScript, SQL, APIs, and real-world datasets. Interested in debugging, building reliable systems, and using AI tools to solve practical engineering problems.
+# Hi, I'm Seif Ferooz 👋
 
+**Software engineer · Full stack, data & applied AI**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seif-ferooz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:seifferoz15@gmail.com) 
+I build Python and SQL-based systems: REST APIs, data pipelines and LLM/RAG applications, with FastAPI, Django, React and PostgreSQL. I care about clean backends, reliable data and turning prototypes into software people can actually use.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=seiifff&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=seiifff&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=seiifff&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 💼 Data Analyst at **CONTEXT (UK)**, building SQL/Python data-validation checks that save ~8–12 hours of manual cleaning a week
+- 🛠️ Previously Full Stack Developer at **New Auto Backs** and Software Engineer Intern at **Ascent Business Solutions (Brandix)**
+- 🎓 BSc (Hons) Computer Science, **First Class Honours**, University of Bedfordshire (SLIIT City), 2026
+- 🤖 Automation Anywhere Certified Advanced RPA Professional (A360), 2026
+- 📍 Based in Sri Lanka · open to remote roles and roles in the UAE
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-seif--ferooz--0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seif-ferooz-/)
+[![Email](https://img.shields.io/badge/Email-seifferoz15%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seifferoz15@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=seiifff&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**ResQNet**](https://github.com/seiifff/Resq_Net) | Community emergency-response network for Sri Lanka: GPS incident reporting, live map, skill-matched volunteer dispatch with escalation, admin analytics and a public transparency feed. Sinhala / Tamil / English UI. | Node.js, Express, SQLite, Leaflet, Chart.js |
+| [**Multilingual AI Resume Chatbot**](https://github.com/seiifff/multilingual-ai-resume-chatbot) | RAG chatbot that answers recruiters' questions about a CV with cited snippets, in 50+ languages, with guardrails against made-up answers. | Python, FAISS, Sentence Transformers, FLAN-T5, Streamlit |
+| [**AI Business Insights Assistant**](https://github.com/seiifff/ai-business-insights-assistant) | Retail sales analysis: KPIs, forecasting, K-means customer segmentation (5 segments), plain-English Q&A and Power BI exports. | Python, pandas, scikit-learn, Streamlit, Power BI |
+| [**DistilBERT Sentiment Analysis**](https://github.com/seiifff/distilbert-sentiment-analysis) | Fine-tuned DistilBERT for positive/negative classification of movie reviews. | Hugging Face Transformers, PyTorch |
+| [**Fine-Grained Image Classification**](https://github.com/seiifff/fine-grained-image-classification) | SE-ResNet50 transfer learning with two-stage fine-tuning and Grad-CAM to show what the model looks at. | PyTorch, Albumentations |
+| [**CIFAR-10 CNN**](https://github.com/seiifff/image-classification-cnn-cifar10) | Convolutional network for CIFAR-10 with augmentation and callbacks; ~80% test accuracy. | TensorFlow / Keras |
+| [**Student Registration System**](https://github.com/seiifff/StudentRegistration) | Course-enrolment web app with login, profiles and a dashboard UI. | ASP.NET Core MVC, EF Core, SQL Server |
+
+---
+
+## 🧰 Tech I work with
+
+**Languages:** Python · SQL · JavaScript · Java · C#
+**Backend:** FastAPI · Django · Node.js / Express · REST APIs
+**Frontend:** React · HTML · CSS
+**Data & AI:** pandas · scikit-learn · PyTorch · TensorFlow · Hugging Face · RAG · LLMs · FAISS · Power BI
+**Databases:** PostgreSQL · SQL Server · SQLite
+**Tools:** Git · Automation Anywhere A360 · Agile / Scrum
