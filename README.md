@@ -31,9 +31,9 @@ I build Python and SQL-based systems: REST APIs, data pipelines and LLM/RAG appl
 
 ## 🧰 Tech I work with
 
-**Languages:** Python · SQL · JavaScript · Java · C#
-**Backend:** FastAPI · Django · Node.js / Express · REST APIs
-**Frontend:** React · HTML · CSS
-**Data & AI:** pandas · scikit-learn · PyTorch · TensorFlow · Hugging Face · RAG · LLMs · FAISS · Power BI
-**Databases:** PostgreSQL · SQL Server · SQLite
-**Tools:** Git · Automation Anywhere A360 · Agile / Scrum
+- **Languages:** Python · SQL · JavaScript · Java · C#
+- **Backend:** FastAPI · Django · Node.js / Express · REST APIs
+- **Frontend:** React · HTML · CSS
+- **Data & AI:** pandas · scikit-learn · PyTorch · TensorFlow · Hugging Face · RAG · LLMs · FAISS · Power BI
+- **Databases:** PostgreSQL · SQL Server · SQLite
+- **Tools:** Git · Automation Anywhere A360 · Agile / Scrum
